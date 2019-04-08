@@ -1,4 +1,4 @@
-# project2
+# HowsMyDriving
 
 The Yelp for reviewing how people drive.  This project uses node, express, bootstrap, and passport.
 
